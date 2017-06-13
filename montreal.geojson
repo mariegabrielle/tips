@@ -247,6 +247,32 @@
         "description": "Little grocery store where you can find take-out food: great choice of salads & sandwiches",
         "marker-symbol": "grocery"
       } 
+      },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.593334, 45.522575]
+      },
+      "properties": {
+        "title": "Dieu du Ciel!",
+        "address": "29 Avenue Laurier Ouest, Montréal, QC H2T 2N2",
+        "description": "Pub, microbrewery",
+        "marker-symbol": "bar"
+      }
+            },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.592788, 45.523177]
+      },
+      "properties": {
+        "title": "Siboire",
+        "address": "5101 Boul St-Laurent, Montréal, QC H2T",
+        "description": "Pub, microbrewery",
+        "marker-symbol": "bar"
+      }  
     }
   ]
 }
