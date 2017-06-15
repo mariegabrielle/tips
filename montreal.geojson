@@ -260,7 +260,7 @@
         "description": "Pub, microbrewery",
         "marker-symbol": "bar"
       }
-            },
+      },
      {
       "type": "Feature",
       "geometry": {
@@ -273,6 +273,19 @@
         "description": "Pub, microbrewery",
         "marker-symbol": "bar"
       }  
-    }
+},
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.599103, 45.525903]
+      },
+      "properties": {
+        "title": "Le Jardin Du Cari",
+        "address": "5554 Boul St-Laurent, Montréal, QC, H2T 1S8",
+        "description": "Caribbean & Guyanese meals",
+        "marker-symbol": "restaurant"
+      }  
+     }
   ]
 }
