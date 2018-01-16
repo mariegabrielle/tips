@@ -31,6 +31,19 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-73.59457659999998, 45.5242133]
+      },
+      "properties": {
+        "name": "Café Resto La Méditerranée",
+        "address": "15 Avenue Fairmount E, Montréal, QC H2T 1C7, Canada",
+        "description": "Panini, Crepes, Croissant, Sandwich. Special Discount for Le Wagon student",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-73.5969180, 45.5270540]
       },
       "properties": {
