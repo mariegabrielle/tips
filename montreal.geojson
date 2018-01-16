@@ -18,6 +18,19 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-73.599591, 45.5248749]
+      },
+      "properties": {
+        "name": "Lloydie's",
+        "address": "66 Rue Saint Viateur O, Montréal, QC H2T 2K8",
+        "description": "Caribean restaurant. One of the favourite of batch #98 <3",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-73.5980520, 45.5270740]
       },
       "properties": {
